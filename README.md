@@ -1,46 +1,70 @@
-# PeakFlow
-PeakFlow(Note: This is an ongoing project currently under development) is a personal time management and productivity insights tool. It helps individuals track their daily activities—such as work, sleep, exercise, and leisure—and provides meaningful analytics, visualizations, and actionable insights to optimize productivity.
+# Getting Started with Create React App
 
-Project Goals:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-* Enable users to input daily data related to time usage
+## Available Scripts
 
-* Analyze and visualize productivity trends
+In the project directory, you can run:
 
-* Provide actionable insights for improving time management
+### `npm start`
 
-* Support data import via CSV for analysis
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-* Offer real-time data analysis and feedback
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Features (Planned & In Progress):
+### `npm test`
 
-1.User Interface: built with React + Tailwind CSS
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-2.Vite for a fast, optimized development experience
+### `npm run build`
 
-3.Data input form for real-time tracking of:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-  * Work hours
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-  * Sleep duration
-  
-  * Leisure time
-  
-  * Exercise time
-  
-  * Commute time
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-4.Visual Analytics using charting libraries (e.g., Recharts)
+### `npm run eject`
 
-5.Productivity Scoring based on input patterns
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-6.CSV Upload Support for bulk data analysis
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-7.Personalized Insights Dashboard
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-8.User authentication and data persistence (future milestone)
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-Current Status:
+## Learn More
 
-This is a work-in-progress project aimed at evolving into a fully functional productivity companion tool. I am actively developing and learning along the way to expand its features and usability.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
